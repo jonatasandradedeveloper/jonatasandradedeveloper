@@ -6,6 +6,6 @@
 ### Sobre
 Sou Anls, Software Engine na empresa Avanade Brasil, atuo como desenvolvedor mobile.
 
-![alt tag](assets/skils.png)
+![alt tag](assets/images/skils.png)
 
 - [Website](https://jonatasandradedeveloper.github.io/) 💻 - Saiba mais.
