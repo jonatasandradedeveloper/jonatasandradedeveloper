@@ -1,100 +1,29 @@
-<!doctype html>
-<html lang="en" class="h-100">
+# Welcome!
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-  <meta name="generator" content="Jekyll v4.1.1">
-  <title>Link App Solutions - Desenvolvimento Web e Aplicativos Mobile</title>
-  <link rel="stylesheet" href="./dist/css/styles.css">
+ 
 
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+## I'm Jonatas Andrade!
 
-  <link rel="canonical" href="https://jonatasandradedeveloper.github.io/">
+ 
 
-  <!-- Bootstrap core CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+:computer: I'm Front-End and Mobile Developer!
 
-  <!-- Favicons -->
-  <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-  <link rel="icon" href="assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-  <link rel="icon" href="assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
-  <link rel="manifest" href="assets/img/favicons/manifest.json">
-  <link rel="mask-icon" href="assets/img/favicons/safari-pinned-tab.svg" color="#39E09B">
-  <link rel="icon" href="assets/img/favicons/favicon.ico">
-  <meta name="msapplication-config" content="assets/img/favicons/browserconfig.xml">
-  <meta name="theme-color" content="#39E09B">
+:house_with_garden: I’m from Brazil.
 
-  <!-- Custom styles for this template -->
-  <link href="https://getbootstrap.com/docs/4.5/examples/sticky-footer/sticky-footer.css" rel="stylesheet">
-</head>
+:books: I’m currently learning everything.
 
-<body class="d-flex flex-column h-100">
-  <!-- Begin page content -->
-  <main role="main" class="flex-shrink-0 text-center mb-5">
-    <div class="container">
-      <div class="logo">
-        <img src="./assets/profile.jpg" title="Link App Solutions" alt="Link App Solutions">
-        <!-- <i class="fa fa-mobile" aria-hidden="true"></i>
-        <i class="fa fa-desktop" aria-hidden="true"></i> -->
-      </div>
-      <h1 class="title">Link App Solutions <br> Development of Mobile Applications and Web Systems</h1>
-      <span class="subTitle">@jonatas.dev</span>
-      <!-- <hr> -->
-      <p class="lead">Passionate about everything that involves the world of technology and communication.</p>
+:outbox_tray: 2021 Goals: create a new project and find a new job.
 
-      <div class="row">
-        <div class="col-md-12">
-          <a href="portfolio.html">
-            <button class="btn btn-warning mb-3">Check out some work done</button>
-          </a>
-        </div>
+ 
 
-          <div class="col-md-12">
-            <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511999813221&amp;text= Hello, could you help me with Web Development and Mobile Applications?"
-              target="_blanck">
-              <button class="btn btn-whatsapp mb-3">WhatsApp</button>
-            </a>
+## About me
 
-            <a href="mailto:jonatasandrade.develop@gmail.com">
-              <button class="btn btn-email mb-3">E-mail</button>
-            </a>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
-            <a href="https://www.facebook.com/jonatas.andrade.507" target="_blanck">
-              <button class="btn btn-facebook mb-3">Facebook</button>
-            </a>
-
-            <a href="https://www.instagram.com/jonatas.dev/?hl=pt-br" target="_blanck">
-              <button class="btn btn-instagram mb-3">Instagram</button>
-            </a>
-
-            <a href="https://www.linkedin.com/in/jonatas-dev/" target="_blanck">
-              <button class="btn btn-linkedin">Linkedin</button>
-            </a>
-          </div>
-        </div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
-      </div>
-  </main>
 
-  <footer class="footer mt-auto py-3">
-    <!-- <div class="popup">
-      <a target="_blanck"
-        href="https://api.whatsapp.com/send?1=pt_BR&phone=5511999813221&amp;text= Olá, poderia me ajudar com Desenvolvimento Web e Aplicativos Mobile"
-        style="text-decoration: none">
-        <div class="text">
-          <p>Entre em contato <br> no Whatsapp</p>
-          <i class="fab fa-whatsapp" aria-hidden="true"></i>
-        </div>
-      </a>
-    </div> -->
-    <div class="container">
-      <p class="text-muted mr-auto" style="text-align: center;">Link App Solutions</p>
-    </div>
-  </footer>
-</body>
+- Thanks for visiting.
 
-</html>
+- Enjoy it!! o/
